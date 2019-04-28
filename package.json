@@ -1,0 +1,22 @@
+{
+  "name": "umi-2.6.16-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "umi dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leftstick/umi-2.6.16-test.git"
+  },
+  "author": "Howard.Zuo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leftstick/umi-2.6.16-test/issues"
+  },
+  "homepage": "https://github.com/leftstick/umi-2.6.16-test#readme",
+  "dependencies": {
+    "umi": "^2.6.16",
+    "umi-plugin-react": "^1.7.5"
+  }
+}
